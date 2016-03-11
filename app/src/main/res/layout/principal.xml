@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:id="@+id/mainlay">
+
+    <!--===========================================================-->
+    <!-- MAIN SCREEN LAYOUT -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/MAIN_SCREEN">
+
+        <Button
+            android:background="@drawable/button_shape"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="Config"
+            android:id="@+id/configTokenBtn"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            />
+
+    </RelativeLayout>
+
+    <!--===========================================================-->
+    <!-- TOKEN COLLECTION EVENT CONFIG LAYOUT -->
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TEV_CONFIG"
+        android:visibility="gone">
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cfgTbl"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true">
+
+        </TableLayout>
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/infoTbl"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true">
+
+        </TableLayout>
+
+        <Button
+            android:background="@drawable/button_shape"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="Cancel"
+            android:id="@+id/cancelCfgBtn"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            />
+
+        <Button
+            android:background="@drawable/button_shape"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="Save"
+            android:id="@+id/saveCfgBtn"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/cancelCfgBtn"
+            />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/toastText"
+        android:background="@drawable/message_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:visibility="gone"
+        />
+
+</RelativeLayout>

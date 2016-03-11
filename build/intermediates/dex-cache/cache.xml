@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-6e7b0229606495a098150904df53330b6ddb889c.jar" />
+    </item>
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints/app/build/intermediates/pre-dexed/debug/classes-c370d6e6c5521b70ea0977753960a730aa1ee2eb.jar" />
+    </item>
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints1/app/build/intermediates/pre-dexed/debug/classes-1e1fbe76d1b629a44fbdb63b555fc7f98dab82df.jar" />
+    </item>
+    <item
+        jar="/home/nacho/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-254f83742397069099469a16ee76b212b2145ee0.jar" />
+    </item>
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints/app/build/intermediates/pre-dexed/debug/classes-e10d77131b032737db90acd008d04a8f49a34726.jar" />
+    </item>
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints1/app/build/intermediates/pre-dexed/debug/classes-602638ca9f63df094d18aca78d83a1f627f0beda.jar" />
+    </item>
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints5/app/build/intermediates/pre-dexed/release/classes-6b834e71b56a375cee3713af4216708f2e951e94.jar" />
+    </item>
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-6c76175fbec013e6d1e6997232d6a7ce17274181.jar" />
+    </item>
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints5/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints5/app/build/intermediates/pre-dexed/release/classes-dee132821fbf1166229c408f106a469f1fbbefa0.jar" />
+    </item>
+    <item
+        jar="/home/nacho/AndroidStudioProjects/SchoolIdolPoints5/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nacho/AndroidStudioProjects/SchoolIdolPoints5/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-e894f5a06379555ffaebbd714529116f2278ce71.jar" />
+    </item>
+
+</items>

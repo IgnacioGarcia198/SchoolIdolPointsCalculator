@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">School Idol Points Calculator</string>
+    <string name="preference_file_key">Files</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="eventConfigFile">eventConfig.cfg</string>
+    <string name="eventFile">current_event</string>
+
+    <string-array name="mode">
+        <item>"Easy "</item>
+        <item>Normal</item>
+        <item>"Hard "</item>
+        <item>Expert</item>
+    </string-array>
+
+</resources>
